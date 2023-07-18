@@ -1,13 +1,13 @@
 ![MasterHeead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Afolabi Sodiq</h1>
-<p align="center">👨🏾‍💻A passionate frontend developer from Nigeria</p>
+
 <p align="center"><img width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /></p>
 <div align="center">
   <a href="https://coruscating-pixie-d4d2d0.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/-my_Portfolio-FBFBFB?style=for-the-badge&logo=ko-f&logoColor=white" target="_blank">
   </a>
 </div>
-
+<p align="left">Hi 👋, I'm Afolabi Sodiq</p>
+<p align="left">👨🏾‍💻A passionate frontend developer from Nigeria</p>
 
 ---
 
