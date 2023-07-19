@@ -1,5 +1,3 @@
-![MasterHeead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-
 <p align="center"><img width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /></p>
 <div align="center">
   <a href="https://coruscating-pixie-d4d2d0.netlify.app/" target="_blank">
